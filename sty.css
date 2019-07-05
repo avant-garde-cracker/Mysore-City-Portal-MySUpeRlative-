@@ -1,0 +1,28 @@
+h1{
+	font-size: 70px;
+	text-align: center;
+	color:#e133ea;
+}
+body{
+	background: #310a10;
+	font-size: 30px;
+}
+.p{
+	padding-left: 10%;
+	color: #ffffff;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{
+	color: #ff2222;
+}
+.row{
+	padding-top: 3%;
+}
+.jumbotron{
+	background:#4e42f4;
+}
